@@ -1,5 +1,6 @@
 #include "fintrf.h"
 !----------------------------------------------------------------!
+! Author: Alessandro Di Nola. 12/2021.
 ! Gateway routine
 ! Compile with mex -O -v -R2018a myinterp1q.f90 -output myinterp1q
 ! or, if you want to modify optimization falgs, with 
