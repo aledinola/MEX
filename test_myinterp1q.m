@@ -1,4 +1,5 @@
 %% Test Fortran MEX file for linear interpolation
+% Author: Alessandro Di Nola. 12/2021.
 % Do linear interpolation 
 % Yi = myinterp1q(X,Y,Xi)
 % similar to Matlab function interp1q
